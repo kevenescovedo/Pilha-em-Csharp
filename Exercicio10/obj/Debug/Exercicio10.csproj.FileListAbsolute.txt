@@ -1,0 +1,10 @@
+C:\Users\keven\source\repos\Exercicio10\Exercicio10\bin\Debug\Exercicio10.exe.config
+C:\Users\keven\source\repos\Exercicio10\Exercicio10\bin\Debug\Exercicio10.exe
+C:\Users\keven\source\repos\Exercicio10\Exercicio10\bin\Debug\Exercicio10.pdb
+C:\Users\keven\source\repos\Exercicio10\Exercicio10\obj\Debug\Exercicio10.csprojAssemblyReference.cache
+C:\Users\keven\source\repos\Exercicio10\Exercicio10\obj\Debug\Exercicio10.Form1.resources
+C:\Users\keven\source\repos\Exercicio10\Exercicio10\obj\Debug\Exercicio10.Properties.Resources.resources
+C:\Users\keven\source\repos\Exercicio10\Exercicio10\obj\Debug\Exercicio10.csproj.GenerateResource.cache
+C:\Users\keven\source\repos\Exercicio10\Exercicio10\obj\Debug\Exercicio10.csproj.CoreCompileInputs.cache
+C:\Users\keven\source\repos\Exercicio10\Exercicio10\obj\Debug\Exercicio10.exe
+C:\Users\keven\source\repos\Exercicio10\Exercicio10\obj\Debug\Exercicio10.pdb
